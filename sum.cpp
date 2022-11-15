@@ -8,6 +8,7 @@ int main()
 {
     float x,Y,Sum,k;
     Sum=0;
+	cout<<"Привіт,шо ти як ти";
     cout<<"Введіть х ";
     cin>>x;
     cout<<"Введіть k ";
